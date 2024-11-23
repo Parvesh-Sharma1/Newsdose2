@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph",
+      "title": "US banking lobby last-minute bid to stop Biden vetoing SAB 121 overturn - Cointelegraph",
+      "description": null,
+      "url": "https://cointelegraph.com/news/united-states-american-bankers-association-sab-121-joe-biden-cryptocurrency-industry",
+      "urlToImage": null,
+      "publishedAt": "2024-06-02T05:04:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Frances Schwartzkopff, Gautam Naik",
+      "title": "Global Banks Start Targeting CRE Emissions Risk - Bloomberg",
+      "description": "At some of the world’s biggest banks, loans to commercial real estate face new litmus tests that promise to shape the sector’s access to financing.",
+      "url": "https://www.bloomberg.com/news/articles/2024-06-02/global-banks-start-targeting-cre-emissions-risk",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiLLnr.GH9R4/v0/1200x800.jpg",
+      "publishedAt": "2024-06-02T05:00:00Z",
+      "content": "At some of the worlds biggest banks, loans to commercial real estate face new litmus tests that promise to shape the sectors access to financing. \r\nAt issue is the carbon emissions of buildings and t… [+281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mta.info"
+      },
+      "author": null,
+      "title": "Subway and rail service changes: May 31-June 3, 2024 - MTA",
+      "description": "There are service changes on the subway, LIRR, and Metro-North this weekend. Here's how that will affect how you get around.",
+      "url": "https://new.mta.info/article/subway-and-rail-service-changes-may-31-june-3-2024",
+      "urlToImage": "https://new.mta.info/sites/default/files/2024-05/20-052324cannonball020_0.jpg",
+      "publishedAt": "2024-06-02T04:27:28Z",
+      "content": "This weekend marks the start of a new month, and what a month June is: We'll be celebrating Pride, Juneteenth, the summer solstice, the T20 Cricket World Cup, the Coney Island Mermaid Parade, the Pue… [+11508 chars]"
+    }]}
